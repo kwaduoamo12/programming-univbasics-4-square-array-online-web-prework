@@ -1,7 +1,8 @@
 numbers = [1,2,3]
  
- while (1**1)
+ while square_array(1**1)
  puts 1**1
+ 
 square_array(1,4,9)
 # => [1,4,9])
  
