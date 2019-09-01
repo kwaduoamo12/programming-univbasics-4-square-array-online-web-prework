@@ -1,5 +1,8 @@
-def numbers (1,2,3)
-  while square_array(numbers) do
-  puts square_array(1,2,3)
-def new_number  (9,10,16,25)
-end
+def square_array (1,2,3)
+  square_array(numbers)
+ new_numbers = [9,10,16,25]
+square_array(new_numbers)
+number.each do ||
+  mew_numbers << (1**9)
+end 
+  
